@@ -5,9 +5,9 @@ A backup files for the Deelzat mobile app Firebase Functions, Which contains fun
 
 ## Related
 
-- [Deelzat Mobile App Showcase](https://github.com/muja555/Deelzat-mobile-app-showcase)
-- [Deezat Mobile App Firebase Functions Showcase](https://github.com/muja555/Deezat-mobile-app-Firebase-Functions-showcase)
-- [Deelzat Mobile App Support Dashboard Showcase](https://github.com/muja555/Deelzat-mobile-app-support-dashboard-showcase)
+- [Deelzat Mobile App](https://github.com/muja555/Deelzat-mobile-app-showcase)
+- [Deezat Mobile App Firebase Functions](https://github.com/muja555/Deezat-mobile-app-Firebase-Functions-showcase)
+- [Deelzat Mobile App Support Dashboard](https://github.com/muja555/Deelzat-mobile-app-support-dashboard-showcase)
 - [Deelzat Mobile App Analytics Dashboard](https://github.com/muja555/Deelzat-mobile-app-analytics-dashboard)
 
 
